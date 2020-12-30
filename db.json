@@ -1,0 +1,88 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "name": "Rufina",
+      "surname": "Gataullina",
+      "phone": "79163398114",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "name": "Polina",
+      "surname": "Zaplatina",
+      "phone": "79167865412",
+      "type": 1
+    },
+    {
+      "id": 3,
+      "name": "Masha",
+      "surname": "Lipnick",
+      "phone": "79568976534",
+      "type": 2
+    },
+    {
+      "id": 4,
+      "name": "Lola",
+      "surname": "Ferinova",
+      "phone": "79765674322",
+      "type": 3
+    },
+    {
+      "id": 5,
+      "name": "Лариса",
+      "surname": "Зайцева",
+      "phone": "79765674322",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "name": "Олег",
+      "surname": "Неудачник",
+      "phone": "79765674322",
+      "type": 1
+    },
+    {
+      "id": 7,
+      "name": "Никита",
+      "surname": "Фролов",
+      "phone": "79765674322",
+      "type": 2
+    },
+    {
+      "id": 8,
+      "name": "Жанна",
+      "surname": "Майская",
+      "phone": "79765674322",
+      "type": 3
+    },
+    {
+      "id": 9,
+      "name": "Дмитрий",
+      "surname": "Баринов",
+      "phone": "79765674322",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "name": "Марина",
+      "surname": "Шарапова",
+      "phone": "79765674322",
+      "type": 1
+    },
+    {
+      "id": 11,
+      "name": "Алиса",
+      "surname": "Ремизова",
+      "phone": "79765674322",
+      "type": 2
+    },
+    {
+      "id": 12,
+      "name": "Элина",
+      "surname": "дрянн",
+      "phone": "79765674322",
+      "type": 3
+    }
+  ]
+}
